@@ -1,0 +1,8 @@
+.register{
+    background-color: #ffffff;
+}
+
+.custom-datepicker .react-datepicker__input-container input {
+    background-color: black;
+    color: white;
+}

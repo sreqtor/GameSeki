@@ -1,0 +1,7 @@
+{
+  "name": "GameSekiApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

@@ -1,0 +1,33 @@
+.item {
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+.item img {
+    height: 250px;
+    width: auto;
+    object-fit: contain;
+}
+
+.container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+}
+
+.addButtonInWin {
+    position: absolute;
+    top: -220px;
+    right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.addButtonInWin .fabButton {
+    margin-bottom: 10px;
+    margin-right: 1px;
+}

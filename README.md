@@ -61,3 +61,56 @@ En caso de querer cambiar tu contraseña, desde la pantalla de tu perfil podrás
 - Pantalla Recuperar Contraseña:
 
 ![https://i.imgur.com/OBVEm9i.png](https://i.imgur.com/KuNGXix.png)
+
+# Diseños de pantallas de la app
+- Con sesión iniciada
+
+![https://i.imgur.com/KuNGXix.png](https://i.imgur.com/7Ydypuc.png)
+
+- Sesión Invitado:
+
+![https://i.imgur.com/7Ydypuc.png](https://i.imgur.com/g8EemLp.png)
+
+- Modo Claro:
+
+![https://i.imgur.com/g8EemLp.png](https://i.imgur.com/jUj4qZI.png)
+
+- Página Inicio:
+
+![https://i.imgur.com/jUj4qZI.png](https://i.imgur.com/WRvdVJg.png)
+
+- Página Noticias:
+
+![https://i.imgur.com/WRvdVJg.png](https://i.imgur.com/GD25VQO.png)
+
+- Página Lista de Deseados:
+
+![https://i.imgur.com/GD25VQO.png](https://i.imgur.com/QZQ3mnC.png)
+
+- Página Lista de Completados:
+
+![https://i.imgur.com/QZQ3mnC.png](https://i.imgur.com/v0BbDsN.png)
+
+- Página Acerca del sitio:
+
+![https://i.imgur.com/v0BbDsN.png](https://i.imgur.com/bJCqS4b.png)
+
+- Página Perfil (Sin sesión iniciada):
+
+![https://i.imgur.com/bJCqS4b.png](https://i.imgur.com/OW6Auw1.png)
+
+- Página Perfil (Con sesión iniciada):
+
+![https://i.imgur.com/OW6Auw1.png](https://i.imgur.com/XjMHT5r.png)
+
+- Página Inicio Sesión:
+
+![https://i.imgur.com/XjMHT5r.png](https://i.imgur.com/ecmqwFX.png)
+
+- Página Recuperar Contraseña:
+
+![https://i.imgur.com/ecmqwFX.png](https://i.imgur.com/oNnf6R8.png)
+
+- Página Registro:
+
+![https://i.imgur.com/oNnf6R8.png](https://i.imgur.com/6GLTtZJ.png)

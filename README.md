@@ -1,7 +1,7 @@
 # GameSeki
 GameSeki es un lugar donde encontrar videojuegos y noticias sobre videojuegos, puedes tener una lista de deseos y completados, además podrás añadir juegos y noticias.
 
-- Para ejecutar el Backend, la web y la app, leer el manual de instalación que se encuentra en el Anexo III de la documentación
+- Para ejecutar el Backend, la web y la app, leer el manual de instalación que se encuentra en el Anexo III de la documentación.
 
 Podemos usar la aplicación con el rol de invitado, sin necesidad de registrarse, pudiendo simplemente ver los juegos y noticias, pero no podrás subir juegos ni noticias, y tampoco tener tu lista de deseos y/o de completados, para ello deberás registrarte.
 
